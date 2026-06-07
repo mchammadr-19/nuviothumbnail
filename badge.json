@@ -91,7 +91,7 @@
       "isEnabled": true,
       "name": "480p",
       "pattern": "(?i)\\b480[pi]?\\b",
-      "tagColor": "#00000000",
+      "tagColor": "#000000",
       "tagStyle": "filled",
       "textColor": "#000000",
       "type": "filter"
