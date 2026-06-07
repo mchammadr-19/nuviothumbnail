@@ -268,7 +268,7 @@
     {
       "groupId": "gco",
       "id": "co-hevc",
-      "imageURL": "https://raw.githubusercontent.com/starkles/Nuvio-sven-badges/main/grey-HEVC.svg",
+      "imageURL": "https://raw.githubusercontent.com/je19921/cardgenerator.github.io/refs/heads/main/h265.png",
       "isEnabled": true,
       "name": "HEVC",
       "pattern": "(?i)\\b(?:hevc|h[\\s._-]?265|x265)\\b",
@@ -276,12 +276,12 @@
       "tagStyle": "bordered",
       "textColor": "#888d93",
       "type": "filter",
-      "borderColor": "#888d93"
+      "borderColor": "#ffffff"
     },
     {
       "groupId": "gco",
       "id": "co-h264",
-      "imageURL": "https://raw.githubusercontent.com/starkles/Nuvio-sven-badges/main/grey-H264.svg",
+      "imageURL": "https://raw.githubusercontent.com/je19921/cardgenerator.github.io/refs/heads/main/h264.png",
       "isEnabled": true,
       "name": "H.264",
       "pattern": "(?i)\\b(?:avc|h[\\s._-]?264|x264)\\b",
@@ -289,33 +289,7 @@
       "tagStyle": "bordered",
       "textColor": "#888d93",
       "type": "filter",
-      "borderColor": "#888d93"
-    },
-    {
-      "groupId": "gco",
-      "id": "co-av1",
-      "imageURL": "https://raw.githubusercontent.com/starkles/Nuvio-sven-badges/main/grey-AV1.svg",
-      "isEnabled": true,
-      "name": "AV1",
-      "pattern": "(?i)\\bav1\\b",
-      "tagColor": "#00000000",
-      "tagStyle": "bordered",
-      "textColor": "#888d93",
-      "type": "filter",
-      "borderColor": "#888d93"
-    },
-    {
-      "groupId": "gco",
-      "id": "co-xvid",
-      "imageURL": "https://raw.githubusercontent.com/starkles/Nuvio-sven-badges/main/grey-XviD.svg",
-      "isEnabled": true,
-      "name": "XviD",
-      "pattern": "(?i)\\b(?:xvid|divx)\\b",
-      "tagColor": "#00000000",
-      "tagStyle": "bordered",
-      "textColor": "#888d93",
-      "type": "filter",
-      "borderColor": "#888d93"
+      "borderColor": "#ffffff"
     },
     {
       "groupId": "ga",
