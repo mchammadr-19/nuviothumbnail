@@ -3,13 +3,6 @@
     {
       "borderColor": "#FFFFFF",
       "color": "#FFFFFF",
-      "id": "gr",
-      "isExpanded": true,
-      "name": "Resolution"
-    },
-    {
-      "borderColor": "#FFFFFF",
-      "color": "#FFFFFF",
       "id": "gq",
       "isExpanded": true,
       "name": "Quality"
@@ -24,6 +17,13 @@
     {
       "borderColor": "#FFFFFF",
       "color": "#FFFFFF",
+      "id": "gr",
+      "isExpanded": true,
+      "name": "Resolution"
+    },
+    {
+      "borderColor": "#FFFFFF",
+      "color": "#FFFFFF",
       "id": "ga",
       "isExpanded": true,
       "name": "Audio"
@@ -34,13 +34,6 @@
       "id": "gc",
       "isExpanded": true,
       "name": "Channels"
-    },
-    {
-      "borderColor": "#FF858283",
-      "color": "#000000",
-      "id": "ge",
-      "isExpanded": false,
-      "name": "Encoder"
     }
   ],
   "filters": [
@@ -52,7 +45,7 @@
       "isEnabled": true,
       "name": "4K",
       "pattern": "(?i)^(?=.*(?:2160[pi]?|4k|uhd))(?!.*(?:1080[pi]?|720[pi]?))",
-      "tagColor": "#FFFFFF",
+      "tagColor": "#fafafa",
       "tagStyle": "filled",
       "textColor": "#000000",
       "type": "filter"
@@ -65,7 +58,7 @@
       "isEnabled": true,
       "name": "1080p",
       "pattern": "(?i)\\b1080[pi]?\\b",
-      "tagColor": "#FFFFFF",
+      "tagColor": "#fafafa",
       "tagStyle": "filled",
       "textColor": "#000000",
       "type": "filter"
@@ -78,7 +71,7 @@
       "isEnabled": true,
       "name": "720p",
       "pattern": "(?i)\\b720[pi]?\\b",
-      "tagColor": "#FFFFFF",
+      "tagColor": "#fafafa",
       "tagStyle": "filled",
       "textColor": "#000000",
       "type": "filter"
@@ -91,7 +84,7 @@
       "isEnabled": true,
       "name": "480p",
       "pattern": "(?i)\\b480[pi]?\\b",
-      "tagColor": "#000000",
+      "tagColor": "#fafafa",
       "tagStyle": "filled",
       "textColor": "#000000",
       "type": "filter"
